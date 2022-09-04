@@ -1,2 +1,5 @@
-# viniciuscostabulhoes
- lista-de-exercicios-prog-avançada
+# Submissão das tarefas de programação
+
+ Aluno:
+ 
+ Vinícius Costa Bulhões
