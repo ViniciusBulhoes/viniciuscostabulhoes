@@ -1,0 +1,2 @@
+p = max + 1; pois ela está simplesmente dando a um ponteiro o endereço de max[1]
+x = (*max)++;
