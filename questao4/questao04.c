@@ -1,5 +1,5 @@
 #include<stdio.h>
-nt main() {
+int main() {
 int valor;
 int *p1;
 float temp;
