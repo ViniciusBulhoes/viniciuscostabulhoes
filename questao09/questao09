@@ -1,1 +1,5 @@
-resp
+Respectivamente:
+-como char: 4093, 4094, 4095
+-como int: 4094, 4096, 4098
+-como float: 4096, 4100, 4104
+-como double: 4100, 4108, 4116
