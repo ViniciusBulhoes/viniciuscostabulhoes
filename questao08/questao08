@@ -1,1 +1,2 @@
-resp
+O primeiro código irá printar os elementos de vet (4, 9, 13)
+O segundo código irá printar o endereço de vet[0], vet[1] e vet[2], como um hexadecimal maiúsculo
