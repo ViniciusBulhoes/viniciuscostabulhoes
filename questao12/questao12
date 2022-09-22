@@ -1,1 +1,2 @@
-resp
+Ponteiro para função é um ponteiro que como qualquer outro armazena um endereço de memória, porém nesse caso para uma função.
+Podem ser usados para criar uma chamada de função para a função a qual esteja sendo apontado.
